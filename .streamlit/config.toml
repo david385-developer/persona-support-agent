@@ -1,0 +1,5 @@
+# This file is intentionally left empty for local development.
+# Secrets are loaded from .env file instead.
+# For Streamlit Cloud deployment, add your keys here.
+[server]
+fileWatcherType = "none"
